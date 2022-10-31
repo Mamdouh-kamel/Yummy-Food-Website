@@ -62,7 +62,7 @@ i, a
   width: 60px;
   height: 100vh;
   position: fixed;
-  z-index: 9999;
+  z-index: 9999999;
   left: 0px;
   transition: all 0.6s ease; 
   background-color: #fff;
