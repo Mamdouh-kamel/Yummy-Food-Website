@@ -262,4 +262,10 @@ i, a
   right: 10px;
   background-color: #FBC911;
   cursor: pointer;
+  border: 3px solid #fff;
+}
+#btnUp:hover{
+  color:#FBC911 !important;
+  background-color: white;
+  border: 3px solid #FBC911;
 }
